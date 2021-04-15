@@ -14,6 +14,3 @@
 
 #### Testfall 4
 ...
-
-#### Testfall 5
-...
