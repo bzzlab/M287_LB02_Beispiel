@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /* Eine Version für 768 Pixel (beispielsweise Tablet im Hochformat) */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 848px) {
     html {
-        background-image: url("../img/??");
+        background-image: url("../img/background.jpg");
     }
 
   #wrapper {
